@@ -1,0 +1,6 @@
+Library/
+Temp/
+UnityPureECS_STGDemo.sln
+.vscode/settings.json
+STGDemo.csproj
+obj/Debug/STGDemo.csprojAssemblyReference.cache
